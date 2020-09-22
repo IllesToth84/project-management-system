@@ -1,0 +1,100 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> 139c6a8... second commit
+.heading {
+    text-align: center;
+}
+
+.container {
+    padding: 2em 0;
+}
+
+.card {
+    padding: 30px 50px 50px 50px;
+}
+
+<<<<<<< HEAD
+=======
+.card-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.close-button {
+    display: flex;
+    align-items: center;
+    font-size: 1.8em;
+}
+
+.close-button a {
+    color: black;
+}
+
+.close-button a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+>>>>>>> 139c6a8... second commit
+.card,
+.table {
+    border: 2px solid #A9A9A9;
+}
+
+<<<<<<< HEAD
+=======
+.table {
+    border-collapse: collapse;
+}
+
+.scrollingTable {
+    overflow-y: auto;
+}
+
+>>>>>>> 139c6a8... second commit
+thead {
+    background-color: #E8E8E8;
+}
+
+
+.contact-td {
+    display: block;
+<<<<<<< HEAD
+}
+
+=======
+    border: none;
+}
+
+.contact-cols .col {}
+
+tr,
+th,
+td {
+    border: 1px solid darkgray;
+}
+
+td {
+    border-top: none !important;
+}
+
+
+
+.contact-td ul li {
+    list-style-type: none;
+}
+
+#select {
+    width: 30%;
+    /* Full-width */
+    font-size: 14px;
+    /* Increase font-size */
+    padding: 5px 5px;
+    /* Add some padding */
+    border: 1px solid #ddd;
+    /* Add a grey border */
+    margin-bottom: 12px;
+    /* Add some space below the input */
+}
+>>>>>>> 139c6a8... second commit
